@@ -1,3 +1,3 @@
 rootProject.name = 'rabbitMQ'
 
-include('server:producer')
+include('server')
