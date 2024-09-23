@@ -1,4 +1,4 @@
-package org.springframework.amqp.tutorials.tut1;
+package org.springframework.amqp.tutorials;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
